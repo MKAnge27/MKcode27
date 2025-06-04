@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Michel Kanga
 
 🎓 I'm a Computer Science student with hands-on experience as a Software Developer .
-💻 My top tech stack includes **Java**, **Python**, **HTML**, **JavaScript**, and **React**.
+💻 My top tech stack includes **Java**, **Python**, **JavaScript**, and **React**.
 🌐 I’m fluent in **3 languages** and always excited to learn more!
 
 ## 👀 Interests
