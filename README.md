@@ -3,12 +3,15 @@
 ## Interested in
 
 *  Backend Dev
-*  Exploring Cloud & API integrations
+*  Cloud & API
 *  Building things
+*  F1
+*  Football
+*  Watching anime
 
 ## Learning
 
-* Data Structures & Algorithms
+* DSA
 * System Design Principles
 * Building Java-based full-stack projects
 
