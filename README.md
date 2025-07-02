@@ -18,4 +18,4 @@
 ## Contact info
 
 * Email: **\[**[**Kanga.michel89@gmail.com**](mailto:Kanga.michel89@gmail.com)**]**
-* LinkedIn: [www.linkedin.com/in/michel-kanga-b3327b249](http://www.linkedin.com/in/michel-kanga-b3327b249)
+* LinkedIn: [www.linkedin.com/in/michel-kanga-b3327b249](http://www.linkedin.com/in/michelkanga)
